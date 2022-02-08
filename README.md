@@ -1,5 +1,5 @@
 
-# [Demo](https://test-task-6-deploy1.vercel.app/)
+# [Demo](https://test-task-promo-pages.vercel.app/promo)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
